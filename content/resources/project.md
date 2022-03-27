@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: fd80c27d-ccc9-5793-3950-399e9b5106d3
 resourcetype: Document
 title: 'Digital Anthropology '
 uid: 028f3bd0-0dd7-bf4d-bb25-b43cf349143c

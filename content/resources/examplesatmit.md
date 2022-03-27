@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c3dc399-0691-2c64-9c95-63e2d6581983
 resourcetype: Document
 title: Technology Testbeds at MIT
 uid: 67fae20f-35fd-31aa-39ed-ec4e02fd7d25

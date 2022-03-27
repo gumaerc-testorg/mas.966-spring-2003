@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8c3dc399-0691-2c64-9c95-63e2d6581983
 resourcetype: Document
 title: 'Session One: Intro & Overview'
 uid: f3aae3c5-8d6d-0e8c-dee5-b540709674fe
