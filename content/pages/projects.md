@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: fd80c27d-ccc9-5793-3950-399e9b5106d3
 ---
@@ -27,7 +28,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Experiment Proposals ([PDF]({{< baseurl >}}/resources/experiment))
+Experiment Proposals ({{< resource_link 419dfde3-2a13-4d58-bbbc-9729aa116ed1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Experiment Proposals ([PDF]({{< baseurl >}}/resources/experiment))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Project Proposals ([PDF]({{< baseurl >}}/resources/project))
+Project Proposals ({{< resource_link 028f3bd0-0dd7-bf4d-bb25-b43cf349143c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
