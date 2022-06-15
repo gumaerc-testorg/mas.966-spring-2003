@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, expected student deliverables, credits, target student population,
+  interwoven themes, sections, and potential speakers.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 4319bab3-ea71-2f8a-c45e-ff28e8e5a9e3
 ---
