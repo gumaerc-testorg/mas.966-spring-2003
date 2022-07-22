@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: A digital display on columns.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Hall of Heroes (thumbnail)
 uid: 5109d7ad-f421-4cc6-8231-790ea95a799f
 ---
 The Hall of Heroes, an idea of digital-signal displays visible only to people wearing certain receptive glasses. (Image by Sandy Pentland.)
-
