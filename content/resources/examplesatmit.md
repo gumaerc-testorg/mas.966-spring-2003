@@ -2,6 +2,7 @@
 content_type: resource
 description: "Photos from Technology Testbeds throughout MIT.\r\n"
 file: /courses/mas-966-digital-anthropology-spring-2003/67fae20f35fd31aa39edec4e02fd7d25_examplesatmit.pdf
+file_size: 419708
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
