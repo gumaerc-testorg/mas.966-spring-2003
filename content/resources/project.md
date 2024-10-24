@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student proposals for the Spring 2003 class project.
-file: /courses/mas-966-digital-anthropology-spring-2003/028f3bd00dd7bf4dbb25b43cf349143c_project.pdf
+file: /ol-ocw-studio-app/courses/mas-966-digital-anthropology-spring-2003/028f3bd00dd7bf4dbb25b43cf349143c_project.pdf
 file_size: 119602
 file_type: application/pdf
 learning_resource_types:

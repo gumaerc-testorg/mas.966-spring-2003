@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on capturing detailed data on human networks and
   mapping the organizational cognitive infrastructure.
-file: /courses/mas-966-digital-anthropology-spring-2003/48287a729e0db4b0dbb45d7ff20fceee_eagle1.pdf
+file: /ol-ocw-studio-app/courses/mas-966-digital-anthropology-spring-2003/48287a729e0db4b0dbb45d7ff20fceee_eagle1.pdf
 file_size: 722574
 file_type: application/pdf
 learning_resource_types:
