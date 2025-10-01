@@ -82,7 +82,7 @@ We will review live and historical research projects – from within and beyond 
     *   Project Oxygen
     *   Paperless Classroom
     *   MasterCard RF Payments
-    *   [Spotme](http://www.spotme.info/)
+    *   {{% resource_link "bc25bd6e-faad-4699-a0b4-5f64acab2621" "Spotme" %}}
 3.  Speculative and Emerging Cases
     *   Project Mercury
     *   MyTags
