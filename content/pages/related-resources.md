@@ -10,16 +10,16 @@ uid: 36995554-f2c4-a43f-da87-f30029da0470
 Links
 -----
 
-[Reality Mining](http://reality.media.mit.edu/)
+{{% resource_link "70f18f25-0099-442e-88bd-2c702ed6b319" "Reality Mining" %}}
 
-[Shortcuts](http://web.media.mit.edu/~tanzeem/projects.htm)
+{{% resource_link "7438e6ab-2258-4d69-b6b1-eb2460baa0d7" "Shortcuts" %}}
 
-[The Sociometer: A Wearable Device for Understanding Human Networks](http://www.media.mit.edu/~tanzeem/shortcuts/workingpaper.pdf)
+{{% resource_link "e3f47ee5-f27b-4d04-b170-529a73b64371" "The Sociometer: A Wearable Device for Understanding Human Networks" %}}
 
 Spotme @ DAVOS
 
-[MIT Technology Testbed presentation](http://web.media.mit.edu/~jpbonsen/MIT-Technology-Testbeds.ppt)
+{{% resource_link "657ab4c7-4c3a-40ac-b894-079bab41b108" "MIT Technology Testbed presentation" %}}
 
-[MIT Project Mercury proposal -- advocating a Wireless Project Athena, a specific Tech Testbed effort.](http://web.media.mit.edu/~jpbonsen/MIT-Project-Mercury.htm)
+{{% resource_link "1864a4f9-cdbb-403b-9986-06f863dc787e" "MIT Project Mercury proposal -- advocating a Wireless Project Athena, a specific Tech Testbed effort." %}}
 
-[Wearable & Mobile Computing links](http://www.hitl.washington.edu/projects/knowledge_base/wearable.html)
+{{% resource_link "7f1a6047-a390-407d-a962-74a50a298695" "Wearable & Mobile Computing links" %}}
